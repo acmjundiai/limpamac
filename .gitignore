@@ -5,7 +5,7 @@
 
 #PacienteZero
 .DS_*
-
+.gitignore
 
 # User-specific files
 *.rsuser
